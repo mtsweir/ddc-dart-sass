@@ -1,0 +1,7 @@
+# Folders
+css
+node_modules
+
+# Files
+package-lock.json
+.sass-cache

@@ -1,0 +1,5 @@
+@use "../variables/font";
+
+p {
+	font-size: font.$size;
+}

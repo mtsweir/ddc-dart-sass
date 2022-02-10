@@ -1,0 +1,5 @@
+@use "../variables/card";
+
+.card {
+	background-color: card.$bg;
+}

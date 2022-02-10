@@ -1,0 +1,13 @@
+{
+  "name": "dart-sass",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass-watch": "^0.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.49.0"
+  }
+}
